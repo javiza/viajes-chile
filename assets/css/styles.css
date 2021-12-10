@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    font-family: 'Roboto', sans-serif;
 }
 h2{
     text-align: center;
@@ -31,6 +32,7 @@ h2{
 
 }
 .alig{
+    justify-content: center;
     text-align: right;
     font-size: 30pt;
    
@@ -56,4 +58,6 @@ h2{
     background-color:#0d6efd ;
     background:#0d6efd ;
 }
-
+.color4{
+    color:#ffffff
+}

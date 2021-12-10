@@ -1,3 +1,4 @@
+/* efecto smooth scroll*/
 let buttons = document.querySelectorAll('a');
       buttons.forEach((button) => {
         button.addEventListener('click', (e) => {
