@@ -1,0 +1,59 @@
+html{
+    scroll-behavior: smooth;
+}
+h2{
+    text-align: center;
+}
+.f-par{
+    background-color: #0d6efd;
+    text-align: center;
+   
+    font-size: 25pt;
+
+}
+.icon{
+    height: 30px;
+}
+.navbar1{
+    position:fixed;
+    top:0;
+    z-index:1;
+    background: rgba(0,0,0, .5);
+    width: 100%;
+}
+.alig{
+    display: inline-flex;
+    text-align: right;
+    
+}
+.colr{
+    background-color: #0d6efd;
+
+}
+.alig{
+    text-align: right;
+    font-size: 30pt;
+   
+}
+.alig2{
+    text-align: left;
+    font-size: 20px;
+}
+.alig3{
+    text-align: right;
+}
+.alig4{
+    text-align: center;
+}
+.size{
+    font-size: 18pt;
+}
+.size-fo{
+    font-size: 25pt;
+    padding-left: 5rem;
+}
+.color-line{
+    background-color:#0d6efd ;
+    background:#0d6efd ;
+}
+
